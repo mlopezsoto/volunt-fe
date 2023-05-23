@@ -1,0 +1,11 @@
+### Front End - ReactJS Client
+
+- Install Prettier extension on VS Code, set VS Code to format code on Save
+- Create App using Vite: npm create vite@latest
+- install bootstrap: npm install boostrap
+- compile with local (project level) tsc: npx tsc <target-file>
+
+## react-bootstrap
+
+react-boostrap are React Components based on Bootsrap styling.
+install react-bootstrap: npm install react-boostrap
