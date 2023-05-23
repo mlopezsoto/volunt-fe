@@ -1,4 +1,4 @@
-name: Deploy volunt-fe to Pages
+name: Deploy Volunt Front End to Pages
 
 on:
   # Runs on pushes targeting the default branch
